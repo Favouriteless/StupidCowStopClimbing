@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.favouriteless.scsc.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "scsc.refmap.json",
+  "mixins": [
+    "LandRandomPosMixin"
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8"
+}
